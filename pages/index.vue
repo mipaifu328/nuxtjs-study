@@ -3,7 +3,7 @@
     <div>
       <Logo />
       <h1 class="title">
-        nuxt-demo
+        nuxtjs-study
       </h1>
       <div class="links">
         <nuxt-link to="/about" class="button--green">About</nuxt-link>

@@ -1,6 +1,12 @@
-# nuxt-demo
+# nuxtjs-study
+nuxtjs study demo
 
-## Build Setup
+## 安装nuxt
+
+``` bash
+$ npx create-nuxt-app <项目名>
+```
+## 运行步骤
 
 ```bash
 # install dependencies
